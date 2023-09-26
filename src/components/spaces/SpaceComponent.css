@@ -1,0 +1,28 @@
+img {
+    max-width: 50%;
+    max-height: 50%;
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+.spaceComponent {
+    display: inline-block;
+    width: 300px;
+    margin: 20px 10px;
+    overflow: auto;
+}
+
+.name {
+    text-align: center;
+    color: green;
+    text-transform: uppercase;
+}
+
+.spaceId {
+
+}
+
+.location {
+
+}
