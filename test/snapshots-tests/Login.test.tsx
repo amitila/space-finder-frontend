@@ -1,6 +1,6 @@
+import React from "react";
 import { create } from "react-test-renderer";
 import { Login } from "../../src/components/Login";
-import React from "react";
 
 describe("Login component snapshot testing", () => {
   test("initial test", () => {

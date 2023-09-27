@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar component snapshot testing initial test 1`] = `
+<div
+  className="navbar"
+>
+  <a
+    className="link"
+    data-testid="home-link"
+    href="/"
+    onClick={[Function]}
+  >
+    Home
+  </a>
+  <a
+    className="link"
+    data-testid="profile-link"
+    href="/profile"
+    onClick={[Function]}
+  >
+    Profile
+  </a>
+  <a
+    className="link"
+    data-testid="spaces-link"
+    href="/spaces"
+    onClick={[Function]}
+  >
+    Spaces
+  </a>
+  <span>
+    <a
+      className="login"
+      data-testid="login-link"
+      href="/login"
+      onClick={[Function]}
+    >
+      Login
+    </a>
+  </span>
+</div>
+`;

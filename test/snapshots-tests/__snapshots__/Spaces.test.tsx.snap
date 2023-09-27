@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spaces component snapshot testing initial test 1`] = `
+<div>
+  <h2>
+    Welcome to the Spaces page!
+  </h2>
+</div>
+`;
+
+exports[`Spaces snapshot testing initial test 1`] = `
+<div>
+  <h2>
+    Welcome to the Spaces page!
+  </h2>
+</div>
+`;

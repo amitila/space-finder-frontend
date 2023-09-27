@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile component snapshot testing initial test 1`] = `
+<div>
+  Welcome to Profile 
+  <div>
+    Please 
+    <a
+      href="/login"
+      onClick={[Function]}
+    >
+      Login
+    </a>
+  </div>
+</div>
+`;

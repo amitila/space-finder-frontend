@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Space component snapshot testing initial test 1`] = `
+<div
+  className="spaceComponent"
+>
+  <img
+    alt="img"
+    src="some.url"
+  />
+  <br />
+  <label
+    className="name"
+  >
+    someName
+  </label>
+  <br />
+  <label
+    className="spaceId"
+  >
+    123
+  </label>
+  <br />
+  <label
+    className="location"
+  >
+    someLocation
+  </label>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    Reverse
+  </button>
+</div>
+`;
